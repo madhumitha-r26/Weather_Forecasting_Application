@@ -1,1 +1,2 @@
-# Weather Forecasting App
+# Weather Forecasting
+ displays weather for the next five days
